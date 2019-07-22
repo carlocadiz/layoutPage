@@ -1,0 +1,1 @@
+Simple HTML and CSS sample showing typical web page layout. From Udemy course 'The Complete Web Developer in 2019:Zero to Mastery'
